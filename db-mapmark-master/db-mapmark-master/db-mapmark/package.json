@@ -1,0 +1,28 @@
+{
+  "name": "db-mapmark",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "db-mapmark",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "google-maps-react": "^2.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.7.0",
+    "pg": "^8.5.1",
+    "pug": "^2.0.0-beta6",
+    "react-native-paper": "^4.7.2",
+    "serve-favicon": "^2.3.0"
+  }
+}
